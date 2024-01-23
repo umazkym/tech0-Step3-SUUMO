@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+pandas
+requests
+Pillow
+folium
+streamlit_folium
